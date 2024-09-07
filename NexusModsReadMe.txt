@@ -5,16 +5,12 @@ A mod to load only the crew positions from a preset.  Press Right Click on the L
  
 Left Click and the preset hotkeys are not affected.
  
+Being able to load only the crew from a preset is useful when the player does not want to restore modules what were temporarily changed in combat or move crew back to their positions after putting out fires, etc.
+ 
 [b][size=5]Steam Workshop[/size][/b] 
  
 For Steam Users, subscribing to this mod does not install the mod.
 Follow [font=Courier New]Installation section[/font] instructions below to install.
- 
-[b][size=4]Combat Example:[/size][/b] 
- 
-Player is in combat.  During combat, modules (such as weapons) were changed since a preset was loaded.  Enemies board the ship, which causes the player to move crew to attack.  Afterwards, the player wants to return the crew to their weapons as well as return the crew to their spread out locations so a single hit doesn't kill them.
- 
-The user can reload the preset, but the module changes and power settings will be reverted.  With this mod, Right Clicking the preset will move the crew back to the preset's locations without affecting power or modules.
  
 [b][size=5]Compatibility[/size][/b] 
 [list]
