@@ -1,0 +1,10 @@
+"workshopitem"
+{
+	"appid"		"812040"
+	"visibility"		"0"
+	"title"		"Load Crew Only from Preset"
+	"description"		"Makes the currently loaded preset easier to see by using a more visible highlight color."
+	"previewfile"		"C:\src\Shortest Trip to Earth\LoadCrewOnly\media\thumbnail.png"
+	"contentfolder"		"C:\src\Shortest Trip to Earth\LoadCrewOnly\Workshop"
+	"publishedfileid"		"3326130028"
+}

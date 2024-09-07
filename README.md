@@ -6,6 +6,10 @@ A mod to load only the crew positions from a preset.  Press Right Click on the L
 
 Left Click and the preset hotkeys are not affected. 
 
+# Steam Workshop
+For Steam Users, subscribing to this mod does not install the mod.
+Follow [Installation section](#installation) instructions below to install.
+
 ## Combat Example:
 Player is in combat.  During combat, modules (such as weapons) were changed since a preset was loaded.  Enemies board the ship, which causes the player to move crew to attack.  Afterwards, the player wants to return the crew to their weapons as well as return the crew to their spread out locations so a single hit doesn't kill them.
 
